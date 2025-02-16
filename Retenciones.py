@@ -4,7 +4,7 @@ import os
 import datetime
 
 # Ruta donde se encuentran los archivos .xlsx
-directorio = r'C:\Users\DELL\Documents\RETENCIONES'
+directorio = r''
 
 # Función para procesar cada archivo .xlsx
 def procesar_archivo(archivo):

@@ -4,7 +4,7 @@ import os
 import datetime
 
 # Ruta donde se encuentran los archivos .xlsx
-directorio = r'C:\Users\DELL\Documents\FACTURAS'  # Ruta actualizada a tu carpeta FACTURAS
+directorio = r''  # Ruta actualizada a tu carpeta FACTURAS
 
 # Función para procesar cada archivo .xlsx
 def procesar_archivo(archivo):
